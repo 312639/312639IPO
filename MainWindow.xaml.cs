@@ -1,4 +1,8 @@
-﻿using System;
+/*Cameron Heinz
+*Feb 11, 2019
+*Area Calculator
+*/  `
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
